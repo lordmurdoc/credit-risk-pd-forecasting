@@ -1,0 +1,19 @@
+# Core data analysis
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+jupyterlab>=4.0
+ipykernel>=6.0
+# PostgreSQL (optional)
+SQLAlchemy>=2.0
+psycopg[binary]>=3.1
+python-dotenv>=1.0
+# Statistics and ML
+scipy>=1.11
+scikit-learn>=1.5
+statsmodels>=0.14
+xgboost>=2.0
+lightgbm>=4.0
+catboost>=1.2
+imbalanced-learn>=0.12
+joblib>=1.3

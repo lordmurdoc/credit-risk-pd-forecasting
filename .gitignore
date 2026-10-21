@@ -1,0 +1,19 @@
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+# Local notebooks/IDE
+.vscode/
+.idea/
+# Generated binary artifacts
+*.joblib
+*.pkl
+# Operating system
+.DS_Store
+Thumbs.db
